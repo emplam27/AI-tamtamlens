@@ -1,7 +1,0 @@
-pytest
-requests
-opencv-python
-numpy
-Cython
-codecov
-pytest-cov
