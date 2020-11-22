@@ -13,6 +13,14 @@ Table of Contents
 
 [1. TamTamLens?](#1-TamTamLens)
 
+[2. 추진 배경](#2-추진 배경)
+
+​    [- 비디오 스트리밍 시대](#비디오-스트리밍-시대)
+
+​    [- 비디오 스트리밍을 통한 광고 증가](#비디오-스트리밍을-통한-광고-증가)
+
+[3. Architecture ](#3-Architecture )
+
 <br/>
 
 <br/>
@@ -35,13 +43,15 @@ Table of Contents
 
 ## 2. 추진 배경
 
-### 1) 비디오 스트리밍 시대
+<br/>
+
+### 비디오 스트리밍 시대
 
 <img src="README.assets/image-20201023113801298.png" alt="image-20201023113801298" style="zoom: 67%;" />
 
 <br/>
 
-### 2) 비디오 스트리밍을 통한 광고 증가
+### 비디오 스트리밍을 통한 광고 증가
 
 <img src="README.assets/image-20201023113828158.png" alt="image-20201023113828158" style="zoom:67%;" />
 
@@ -61,24 +71,3 @@ Table of Contents
 
 <br/>
 
-## 4. 와이어프레임
-
-### 1) 메인 페이지
-
-<img src="README.assets/image-20201023114407105.png" alt="image-20201023114407105" style="zoom:67%;" />
-
-### 2) 유튜버 채널 페이지 / 동영상 재생 페이지
-
-<img src="README.assets/image-20201023114538406.png" alt="image-20201023114538406" style="zoom:67%;" />
-
-
-
-### 3) 기업 페이지 / 검색 결과 페이지
-
-<img src="README.assets/image-20201023114649209.png" alt="image-20201023114649209" style="zoom:67%;" />
-
-<br/>
-
-<br/>
-
-<br/>
