@@ -31,15 +31,15 @@ Table of Contents
 
 **비디오 스트리밍에 등장하는 브랜드 노출을 인식하여 기업에게 데이터를 제공해주는 B2B 서비스** 
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
 <br/>
 
 <br/>
-
-
 
 ## 2. 추진 배경
 
@@ -57,13 +57,37 @@ Table of Contents
 
 <br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
 <br/>
 
 <br/>
+
+<br/>
+
+## 3. YOLO를 이용한 이미지 학습 결과
+
+![ppt_video.mp4_20201120_125757](README.assets/ppt_video.mp4_20201120_125757.gif)
+
+<br/>
+
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
+
+<br/>
+
+
 
 ## 3. Architecture 
 
 ​	                  <img src="README.assets/image-20201023113912551.png" alt="image-20201023113912551" style="zoom:67%;" />
+
+<br/>
+
+[:arrow_up:목차로](#Table-of-Contents)
 
 <br/>
 
