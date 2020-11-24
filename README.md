@@ -19,13 +19,35 @@ Table of Contents
 
 ​    [- 비디오 스트리밍을 통한 광고 증가](#비디오-스트리밍을-통한-광고-증가)
 
-[3. Architecture ](#3-Architecture )
+[3. YOLO를 이용한 이미지 학습 결과](#3-YOLO를-이용한-이미지-학습-결과)
 
 <br/>
 
 <br/>
 
 <br/>
+
+
+
+### 시스템 구조도
+
+![TamTamArchitecture](README.assets/TamTamArchitecture.jpg)
+
+<br/>
+
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+
+
+
 
 ## 1. TamTamLens?
 
@@ -81,17 +103,5 @@ Table of Contents
 
 
 
-## 3. Architecture 
 
-​	                  <img src="README.assets/image-20201023113912551.png" alt="image-20201023113912551" style="zoom:67%;" />
-
-<br/>
-
-[:arrow_up:목차로](#Table-of-Contents)
-
-<br/>
-
-<br/>
-
-<br/>
 
