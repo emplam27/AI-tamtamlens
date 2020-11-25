@@ -27,7 +27,25 @@ Table of Contents
 
 <br/>
 
+## 1. 역할 및 기술
 
+<br/>
+
+### 주요 역할
+
+Brand Detection Algorithm - 
+
+Frontend - [메인 페이지](#), [비디오 페이지](#)
+
+<br/>
+
+### 기술스택
+
+- Frontend - Vue, SCSS
+- Backend - express, mongoDB
+- Brand Detection Algorithm - python, Yolo
+
+<br/>
 
 ### 시스템 구조도
 
