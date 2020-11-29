@@ -7,7 +7,8 @@ def insert_video_data(video_exposure_records, channel_id, video_duration, video_
     # company_id_dict 만들기
     company_id_dict = dict()
     url = f'{TAMTAM_API_URL}/company'
-    headers = {'company_id': TAMTAM_API_KEY}
+    headers = {'company_id': TAMTAM_API_KEY,
+               'token': '11111111111'}
     response = requests.get(url=url, headers=headers)
     for res in response.json():
         company_id_dict[res['company_nickname']] = res['_id']
@@ -29,7 +30,7 @@ def insert_video_data(video_exposure_records, channel_id, video_duration, video_
         'video_views': f"{video_information.json()['items'][0]['statistics']['viewCount']}",
         'video_like': f"{video_information.json()['items'][0]['statistics']['likeCount']}",
         'video_dislike': f"{video_information.json()['items'][0]['statistics']['dislikeCount']}",
-        'video_date': f"{video_information.json()['items'][0]['snippet']['publishedAt']}",
+        'video_date': f"{video_information.json()['items'][0]['snippet']['publishedAt'][:10]}",
         'video_record': video_exposure_records,
         'video_thumbnails': f"{video_information.json()['items'][0]['snippet']['thumbnails']['medium']['url']}",
         'video_time': video_duration,

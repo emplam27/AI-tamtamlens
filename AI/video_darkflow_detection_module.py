@@ -8,7 +8,7 @@ def video_darkflow_detection(video_name):
         tfnet = TFNet(options)
         cap = cv2.VideoCapture(video_name)
 
-        video_duration = cap.get(cv2.CAP_PROP_FRAME_COUNT) / cap.get(cv2.CAP_PROP_FPS)  # 동영상 총 시간
+        video_duration = int(cap.get(cv2.CAP_PROP_FRAME_COUNT) / cap.get(cv2.CAP_PROP_FPS)) + 1  # 동영상 총 시간
 
         tmp_brand_dict, count, tmp_timestamps = dict(), 0, []
         while cap.isOpened():
