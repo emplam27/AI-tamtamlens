@@ -127,23 +127,51 @@ Frontend - [메인 페이지](#), [비디오 페이지](#)
 
 
 
-### 서비스 소개 페이지
+### 1) 서비스 소개 페이지
 
-### 메인페이지
-
-### 내기업 분석 페이지
-
-### 마이페이지
-
-### 순위 페이지
-
-### 체널 페이지
-
-### 동영상 페이지
-
-### 검색페이지
+![tamtam1](README.assets/tamtam1.gif)
 
 
+
+### 2) 메인페이지
+
+![tamtam2](README.assets/tamtam2.gif)
+
+
+
+### 3) 내기업 분석 페이지
+
+![tamtam3](README.assets/tamtam3.gif)
+
+
+
+### 4) 마이페이지
+
+![tamtam4](README.assets/tamtam4.gif)
+
+
+
+### 5) 순위 페이지
+
+![tamtam5](README.assets/tamtam5.gif)
+
+
+
+### 6) 채널 페이지
+
+![tamtam6](README.assets/tamtam6.gif)
+
+
+
+### 7) 동영상 페이지
+
+![tamtam7](README.assets/tamtam7.gif)
+
+
+
+### 8) 검색페이지
+
+![tamtam8](README.assets/tamtam8.gif)
 
 
 
