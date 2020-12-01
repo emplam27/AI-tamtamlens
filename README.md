@@ -125,53 +125,107 @@ Frontend - [메인 페이지](#), [비디오 페이지](#)
 
 ## 3. 주요기능
 
-
+<br/>
 
 ### 1) 서비스 소개 페이지
 
+> 탐탐렌즈 서비스에서 어떤 정보를 얻을 수 있는지에 대해 간략내용을 제공합니다.
+
 ![tamtam1](README.assets/tamtam1.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 2) 메인페이지
 
+> B2B 서비스인 만큼, 회원가입 절차가 따로 없이 제공되는 아이디와 비밀번호로 로그인 한다는 가정 하에 진행하였습니다.
+>
+> 테스트 계정 아이디 및 비밀번호: samsung@test.com / ssafyb203
+
 ![tamtam2](README.assets/tamtam2.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 3) 내기업 분석 페이지
 
 ![tamtam3](README.assets/tamtam3.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 4) 마이페이지
 
 ![tamtam4](README.assets/tamtam4.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 5) 순위 페이지
 
 ![tamtam5](README.assets/tamtam5.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 6) 채널 페이지
 
 ![tamtam6](README.assets/tamtam6.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 7) 동영상 페이지
 
 ![tamtam7](README.assets/tamtam7.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
 ### 8) 검색페이지
 
 ![tamtam8](README.assets/tamtam8.gif)
 
+<br/>
 
+[:arrow_up:목차로](#Table-of-Contents)
+
+<br/>
+
+<br/>
 
