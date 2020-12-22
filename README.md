@@ -15,7 +15,7 @@ Table of Contents
 
 [2. TamTamLens?](#2-TamTamLens)
 
-​    [1) 추진 배경](#1-추진 배경)
+​    [1) 추진 배경](#1-추진-배경)
 
 ​    [2) TamTamLens 서비스 흐름도](#2-TamTamLens-서비스-흐름도)
 
