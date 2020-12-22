@@ -49,9 +49,9 @@ Table of Contents
 
 ### 주요 역할
 
-Brand Detection Algorithm - 
+- Brand Detection Algorithm 개발(Python, OpenCV, Yolo3)
 
-Frontend - [메인 페이지](#), [비디오 페이지](#)
+- Frontend - [메인 페이지](#3-메인페이지), [동영상 재생 페이지](#5-동영상-재생-페이지)
 
 <br/>
 
