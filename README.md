@@ -1,7 +1,5 @@
 # TamTamLens
 
-> 배포 주소: https://k3b203.p.ssafy.io/
-
 <br/>
 
 <br/>
@@ -124,9 +122,8 @@ Table of Contents
    <br/>
 
 3. 검출된 브랜드들의 등장 비율, 등장시간, 이동하기 기능 등 제공
-   https://k3b203.p.ssafy.io/video/tygr1fe3jWM
-
-   ![example1](README.assets/example1.JPG)
+   
+![example1](README.assets/example1.JPG)
    <br/>
 
 <br/>
@@ -161,7 +158,6 @@ Table of Contents
 
 > B2B 서비스인 만큼, 회원가입 절차가 따로 없이 제공되는 아이디와 비밀번호로 로그인 한다는 가정 하에 진행하였습니다.
 >
-> 테스트 계정 아이디 및 비밀번호: samsung@test.com / ssafyb203
 
 ![tamtam2](README.assets/tamtam2.gif)
 
