@@ -2,9 +2,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
 
 Table of Contents
 -----------------
@@ -13,27 +10,27 @@ Table of Contents
 
 [2. TamTamLens?](#2-TamTamLens)
 
-​    [1) 추진 배경](#1-추진-배경)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1) 추진 배경](#1-추진-배경)
 
-​    [2) TamTamLens 서비스 흐름도](#2-TamTamLens-서비스-흐름도)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2) TamTamLens 서비스 흐름도](#2-TamTamLens-서비스-흐름도)
 
 [3. 주요기능](#3-주요기능)
 
-​    [1) 서비스 소개 페이지](#1-서비스-소개-페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1) 서비스 소개 페이지](#1-서비스-소개-페이지)
 
-​    [2) 로그인](#2-로그인)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2) 로그인](#2-로그인)
 
-​    [3) 메인페이지](#3-메인페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3) 메인페이지](#3-메인페이지)
 
-​    [4) 채널페이지](#4-채널페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4) 채널페이지](#4-채널페이지)
 
-​    [5) 동영상 재생 페이지](#5-동영상-재생-페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5) 동영상 재생 페이지](#5-동영상-재생-페이지)
 
-​    [6) 내 기업 페이지](#6-내-기업-페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6) 내 기업 페이지](#6-내-기업-페이지)
 
-​    [7) 마이페이지](7-마이페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[7) 마이페이지](7-마이페이지)
 
-​    [8) 순위페이지](#8-순위페이지)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[8) 순위페이지](#8-순위페이지)
 
 <br/>
 
